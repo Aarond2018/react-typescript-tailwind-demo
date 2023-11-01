@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+  body {
+    color: #32435F;
+  }
+}
+
+/* @layer components {
+  .form-control {
+    @apply w-full flex flex-col my-2;
+  }
+
+  .form-label {
+    @apply text-md my-2;
+  }
+
+  .form-input {
+    @apply w-full p-4 rounded-md;
+  }
+} */
